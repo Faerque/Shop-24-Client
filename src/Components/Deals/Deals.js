@@ -25,7 +25,7 @@ const Deals = () => {
       <br />
       <Link to="/home">
         {" "}
-        <button className="btn btn-primary"> Back to Home ok </button>{" "}
+        <button className="btn btn-primary"> Back to Home </button>{" "}
       </Link>
     </div>
   );
